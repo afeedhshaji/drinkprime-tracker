@@ -1,0 +1,5 @@
+{
+  "db_file": "/home/user/work/drinkprime-rs/water_usage.db",
+  "filter_ip": "192.168.29.69",
+  "discord_webhook": "https://discord.com/api/webhooks/..."
+}
